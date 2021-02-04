@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Product Logic
+
+Whenever a product gets announced by the company the product owner will make an entry into master product table. This master product data has to be circulated across all the modules within the IT.
 
 You can use the [editor on GitHub](https://github.com/shan-mohan/downmark/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
